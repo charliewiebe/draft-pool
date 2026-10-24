@@ -1,0 +1,14 @@
+_targets/
+data/raw/**
+!data/raw/request_log.csv
+*.part
+data/derived/stage4/grid_expectations.parquet
+data/derived/stage4/grid_predictive.parquet
+data/derived/stage4_refit/grid_expectations.parquet
+data/derived/stage4_refit/grid_predictive.parquet
+build/
+Rplots.pdf
+
+# compiled Stan executables (cmdstanr rebuilds them)
+stan/*
+!stan/*.stan

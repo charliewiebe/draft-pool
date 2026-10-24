@@ -1,0 +1,3 @@
+n_taken_mean,n_taken_lo,n_taken_hi,n_top50_mean,n_top50_lo,n_top50_hi,med_pick_top50_mean,med_pick_top50_lo,med_pick_top50_hi,source
+155.938181818182,146,165,48.4136363636364,46,50,26.0959090909091,24,29,simulated
+148,140.5,158,47.9090909090909,45.5,49,25.4545454545455,23.75,27,historical

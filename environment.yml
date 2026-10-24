@@ -1,0 +1,33 @@
+name: draftpool
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.5
+  - cmdstan
+  - r-cmdstanr
+  - r-brms
+  - r-posterior
+  - r-loo
+  - r-bayesplot
+  - r-tidyverse
+  - r-data.table
+  - r-httr2
+  - r-rvest
+  - r-xml2
+  - r-jsonlite
+  - r-targets
+  - r-tarchetypes
+  - r-renv
+  - r-testthat
+  - r-arrow
+  - r-nanoparquet
+  - r-janitor
+  - r-glue
+  - r-fs
+  - r-digest
+  - r-shiny
+  - r-bslib
+  - r-quarto
+  - quarto
+  - r-knitr
+  - r-rmarkdown

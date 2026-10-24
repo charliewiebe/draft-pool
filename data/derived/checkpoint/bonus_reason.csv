@@ -1,0 +1,8 @@
+bonus_source_reason,n
+B-Ref only (Stats API has no bonus field before 2017 or reports none),2481
+"B-Ref used: Stats API equals slot exactly, B-Ref differs >10% (suspected slot placeholder)",3
+B-Ref used: Stats API ~1/1000 of B-Ref (suspected unit error),1
+Stats API (MLB) preferred; B-Ref differs,136
+Stats API only,506
+no bonus reported,4793
+"sources agree (<= $1,000)",5058

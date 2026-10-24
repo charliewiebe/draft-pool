@@ -1,0 +1,320 @@
+date,type,mlbam_id,team_id,team,description,people_birth_date,people_debut,people_last_played,people_active,people_draft_year,age_2020,prior_pro,signed_rule4_before,minor_league_contract,udfa_2020
+2020-06-14,SFA,689491,147,New York Yankees,New York Yankees signed free agent RHP Jarod Lessar to a minor league contract.,1997-06-22,,,FALSE,2019,22.9787816563997,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,670245,110,Baltimore Orioles,Baltimore Orioles signed free agent RHP Ryan Watson to a minor league contract.,1997-11-15,2026-03-28,,TRUE,2020,22.5790554414784,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,690425,135,San Diego Padres,San Diego Padres signed free agent RHP Chase Walter to a minor league contract.,1998-07-26,,,FALSE,2020,21.886379192334,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,679556,143,Philadelphia Phillies,Philadelphia Phillies signed free agent RHP Sam Jacobsak to a minor league contract.,1998-06-11,,,FALSE,2020,22.009582477755,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,670247,137,San Francisco Giants,San Francisco Giants signed free agent RHP Ty Weber to a minor league contract.,1998-03-19,,,FALSE,2020,22.2395619438741,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,679693,147,New York Yankees,New York Yankees signed free agent RHP Carson Coleman to a minor league contract.,1998-04-07,,,TRUE,2020,22.1875427789186,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,695589,147,New York Yankees,New York Yankees signed free agent RHP Ocean Gabonia to a minor league contract.,2001-07-31,,,TRUE,,18.8720054757016,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,695769,140,Texas Rangers,Texas Rangers signed free agent RHP D.J. McCarty to a minor league contract.,2002-09-09,,,TRUE,,17.7631759069131,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,676821,143,Philadelphia Phillies,Philadelphia Phillies signed free agent LHP Jordan Fowler to a minor league contract.,1999-03-09,,,FALSE,2020,21.2676249144422,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,687398,110,Baltimore Orioles,Baltimore Orioles signed free agent 1B J.D. Mundy to a minor league contract.,1998-05-14,,,FALSE,2020,22.0862422997947,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,681012,147,New York Yankees,New York Yankees signed free agent RHP Trevor Holloway to a minor league contract.,1997-06-22,,,FALSE,2020,22.9787816563997,FALSE,FALSE,TRUE,TRUE
+2020-06-14,SFA,687064,110,Baltimore Orioles,Baltimore Orioles signed free agent RHP Brandon Young to a minor league contract.,1998-08-19,2025-04-19,,TRUE,2020,21.8206707734429,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,694760,120,Washington Nationals,Washington Nationals signed free agent 1B Jackson Coutts to a minor league contract.,1998-09-01,,,FALSE,2020,21.7850787132101,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,695801,144,Atlanta Braves,Atlanta Braves signed free agent C Antonio Barranca to a minor league contract.,2001-07-25,,,FALSE,,18.8884325804244,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,695597,140,Texas Rangers,Texas Rangers signed free agent RHP Colton Snyder to a minor league contract.,1997-07-15,,,FALSE,,22.9158110882957,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,695587,144,Atlanta Braves,Atlanta Braves signed free agent 1B Bryson Horne to a minor league contract.,1999-03-06,,,FALSE,,21.2758384668036,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,689190,121,New York Mets,New York Mets signed free agent RHP Kody Davidson to a minor league contract.,1998-11-10,,,FALSE,2020,21.5934291581109,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,694936,147,New York Yankees,New York Yankees signed free agent RHP Connor Pellerin to a minor league contract.,1999-07-22,,,FALSE,2020,20.8980150581793,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,686571,135,San Diego Padres,San Diego Padres signed free agent LHP Danny Denz to a minor league contract.,1998-05-20,,,FALSE,2020,22.0698151950719,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,688195,135,San Diego Padres,San Diego Padres signed free agent 2B Zack Mathis to a minor league contract.,1998-10-11,,,FALSE,2020,21.6755646817248,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,672280,140,Texas Rangers,Texas Rangers signed free agent C Brady Smith to a minor league contract.,1998-11-18,,,FALSE,2020,21.5715263518138,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,687443,135,San Diego Padres,San Diego Padres signed free agent OF Michael Green to a minor league contract.,1998-06-10,,,FALSE,2020,22.0123203285421,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,659389,135,San Diego Padres,San Diego Padres signed free agent RHP Carter Loewen to a minor league contract.,1998-09-28,,,TRUE,2020,21.7111567419576,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,695596,138,St. Louis Cardinals,St. Louis Cardinals signed free agent C Nick Raposo to a minor league contract.,1998-06-03,,,TRUE,,22.031485284052,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,689242,140,Texas Rangers,Texas Rangers signed free agent RHP Nick Krauth to a minor league contract.,1999-09-06,,,TRUE,2019,20.7720739219713,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,686677,144,Atlanta Braves,Atlanta Braves signed free agent 1B Landon Stephens to a minor league contract.,1998-03-15,,,FALSE,2020,22.2505133470226,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,688480,121,New York Mets,New York Mets signed free agent RHP Drake Nightengale to a minor league contract.,1996-05-08,,,FALSE,2020,24.1013004791239,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,689876,121,New York Mets,New York Mets signed free agent RHP Dylan Hall to a minor league contract.,1997-09-07,,,FALSE,2020,22.7679671457906,FALSE,FALSE,TRUE,TRUE
+2020-06-15,SFA,679545,121,New York Mets,New York Mets signed free agent OF Joe Suozzi to a minor league contract.,1998-02-28,,,FALSE,,22.2915811088296,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,687938,111,Boston Red Sox,Boston Red Sox signed free agent RHP Jordan DiValerio to a minor league contract.,1997-10-09,,,FALSE,2020,22.6803559206023,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,687003,111,Boston Red Sox,Boston Red Sox signed free agent RHP Brian Van Belle to a minor league contract.,1996-09-03,2025-08-24,,TRUE,2020,23.7782340862423,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,688449,110,Baltimore Orioles,Baltimore Orioles signed free agent 1B TT Bowens to a minor league contract.,1998-05-27,,,TRUE,2020,22.0506502395619,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,668662,138,St. Louis Cardinals,St. Louis Cardinals signed free agent RHP Gianluca Dalatri to a minor league contract.,1998-04-04,,,FALSE,2020,22.1957563312799,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,695776,140,Texas Rangers,Texas Rangers signed free agent RHP Josh Stephan to a minor league contract.,2001-11-01,,,TRUE,,18.6173853524983,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,694756,143,Philadelphia Phillies,Philadelphia Phillies signed free agent LHP J.P. Woodward to a minor league contract.,1998-11-13,,,TRUE,2020,21.5852156057495,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,663670,143,Philadelphia Phillies,Philadelphia Phillies signed free agent RHP Jonathan Hughes to a minor league contract.,1997-01-08,,,FALSE,2020,23.4305270362765,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,659418,143,Philadelphia Phillies,Philadelphia Phillies signed free agent RHP Noah Skirrow to a minor league contract.,1998-07-21,,,TRUE,2020,21.9000684462697,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,668981,110,Baltimore Orioles,Baltimore Orioles signed free agent RHP Isaiah Kearns to a minor league contract.,1997-11-19,,,FALSE,2020,22.5681040383299,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,687366,138,St. Louis Cardinals,St. Louis Cardinals signed free agent LHP Mac Lardner to a minor league contract.,1997-12-29,,,FALSE,2020,22.4585900068446,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,688632,138,St. Louis Cardinals,St. Louis Cardinals signed free agent OF Matt Chamberlain to a minor league contract.,1998-10-31,,,FALSE,2020,21.6208076659822,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,689750,138,St. Louis Cardinals,St. Louis Cardinals signed free agent 3B Jacob Buchberger to a minor league contract.,1997-10-01,,,TRUE,2020,22.7022587268994,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,689299,143,Philadelphia Phillies,Philadelphia Phillies signed free agent RHP Chase Antle to a minor league contract.,1997-02-16,,,FALSE,2020,23.3237508555784,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,666371,138,St. Louis Cardinals,St. Louis Cardinals signed free agent RHP Nick Trogrlic-Iverson to a minor league contract.,1997-10-03,,,TRUE,2020,22.6967830253251,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,694321,140,Texas Rangers,Texas Rangers signed free agent C Fernando Amaro to a minor league contract.,2001-11-01,,,FALSE,2020,18.6173853524983,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,694888,143,Philadelphia Phillies,Philadelphia Phillies signed free agent LHP Jake McKenna to a minor league contract.,2002-04-24,,,FALSE,2020,18.1409993155373,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,676907,143,Philadelphia Phillies,Philadelphia Phillies signed free agent RHP Billy Sullivan to a minor league contract.,1999-04-16,,,TRUE,2020,21.1635865845311,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,689288,138,St. Louis Cardinals,St. Louis Cardinals signed free agent OF Matt Koperniak to a minor league contract.,1998-02-08,,,TRUE,2020,22.3463381245722,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,694771,110,Baltimore Orioles,Baltimore Orioles signed free agent RHP Thomas Girard to a minor league contract.,1999-05-04,,,FALSE,2020,21.1143052703628,FALSE,FALSE,TRUE,TRUE
+2020-06-16,SFA,690475,111,Boston Red Sox,Boston Red Sox signed free agent RHP Jacinto Arredondo to a minor league contract.,1997-12-07,,,FALSE,2019,22.5188227241615,FALSE,FALSE,TRUE,TRUE
+2020-06-17,SFA,688542,121,New York Mets,New York Mets signed free agent RHP Austin Faith to a minor league contract.,1998-05-13,,,FALSE,2020,22.0889801505818,FALSE,FALSE,TRUE,TRUE
+2020-06-17,SFA,695588,144,Atlanta Braves,Atlanta Braves signed free agent RHP Carter Linton to a minor league contract.,1998-06-14,,,FALSE,,22.0013689253936,FALSE,FALSE,TRUE,TRUE
+2020-06-17,SFA,669017,144,Atlanta Braves,Atlanta Braves signed free agent SS Cam Shepherd to a minor league contract.,1997-09-28,,,FALSE,2020,22.7104722792608,FALSE,FALSE,TRUE,TRUE
+2020-06-17,SFA,695777,138,St. Louis Cardinals,St. Louis Cardinals signed free agent LHP Omar Sanchez to a minor league contract.,2002-04-23,,,FALSE,,18.1437371663244,FALSE,FALSE,TRUE,TRUE
+2020-06-17,SFA,671142,114,Cleveland Guardians,Cleveland Indians signed free agent LHP Jaime Arias to a minor league contract.,1999-01-21,,,FALSE,2020,21.3963039014374,FALSE,FALSE,TRUE,TRUE
+2020-06-17,SFA,676973,114,Cleveland Guardians,Cleveland Indians signed free agent C Joe Donovan to a minor league contract.,1999-01-20,,,FALSE,2020,21.3990417522245,FALSE,FALSE,TRUE,TRUE
+2020-06-18,SFA,688832,137,San Francisco Giants,San Francisco Giants signed free agent OF Carter Williams to a minor league contract.,1998-01-14,,,FALSE,2020,22.4147843942505,FALSE,FALSE,TRUE,TRUE
+2020-06-18,SFA,668822,143,Philadelphia Phillies,Philadelphia Phillies signed free agent RHP Blake Brown to a minor league contract.,1998-08-18,,,TRUE,2020,21.82340862423,FALSE,FALSE,TRUE,TRUE
+2020-06-18,SFA,685313,147,New York Yankees,New York Yankees signed free agent OF Elijah Dunham to a minor league contract.,1998-05-29,,,TRUE,2020,22.0451745379877,FALSE,FALSE,TRUE,TRUE
+2020-06-18,SFA,666140,121,New York Mets,New York Mets signed free agent OF Brandon McIlwain to a minor league contract.,1998-05-31,,,FALSE,2020,22.0396988364134,FALSE,FALSE,TRUE,TRUE
+2020-06-18,SFA,695312,147,New York Yankees,New York Yankees signed free agent OF Aaron Palensky to a minor league contract.,1998-09-22,,,FALSE,2020,21.7275838466804,FALSE,FALSE,TRUE,TRUE
+2020-06-18,SFA,671922,114,Cleveland Guardians,Cleveland Indians signed free agent RHP Cade Smith to a minor league contract.,1999-05-09,2024-03-30,,TRUE,2020,21.1006160164271,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,668752,145,Chicago White Sox,Chicago White Sox signed free agent OF Duke Ellis to a minor league contract.,1998-01-16,2024-06-04,,TRUE,2020,22.4093086926763,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,686248,117,Houston Astros,Houston Astros signed free agent RHP Zack Matthews to a minor league contract.,1999-01-31,,,FALSE,2020,21.3689253935661,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,682266,137,San Francisco Giants,San Francisco Giants signed free agent C Brett Auerbach to a minor league contract.,1998-08-27,,,TRUE,2020,21.7987679671458,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,682182,117,Houston Astros,Houston Astros signed free agent SS J.C. Correa to a minor league contract.,1998-09-15,,,FALSE,2020,21.7467488021903,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,688869,117,Houston Astros,Houston Astros signed free agent OF Justin Dirden to a minor league contract.,1997-07-16,,,FALSE,2019,22.9130732375086,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,685461,117,Houston Astros,Houston Astros signed free agent OF Cesar Gomez to a minor league contract.,1998-07-09,,,TRUE,2020,21.9329226557153,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,690571,117,Houston Astros,Houston Astros signed free agent 1B Peter Zimmermann to a minor league contract.,1997-07-08,,,FALSE,2019,22.9349760438056,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,676247,145,Chicago White Sox,Chicago White Sox signed free agent RHP Brandon Jenkins to a minor league contract.,1998-10-02,,,FALSE,2020,21.700205338809,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,695799,137,San Francisco Giants,San Francisco Giants signed free agent OF Tyler Forner to a minor league contract.,2001-10-18,,,FALSE,,18.6557152635181,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,695778,140,Texas Rangers,Texas Rangers signed free agent RHP Aidan Curry to a minor league contract.,2002-07-25,,,TRUE,,17.8891170431212,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,695779,117,Houston Astros,Houston Astros signed free agent RHP Kyle Gruller to a minor league contract.,1998-05-21,,,FALSE,,22.0670773442847,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,676301,135,San Diego Padres,San Diego Padres signed free agent C Adam Kerner to a minor league contract.,1998-07-31,,,FALSE,2020,21.8726899383984,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,685807,143,Philadelphia Phillies,Philadelphia Phillies signed free agent RHP Buddy Hayward to a minor league contract.,1998-10-15,,,FALSE,2020,21.6646132785763,FALSE,FALSE,TRUE,TRUE
+2020-06-19,SFA,694395,140,Texas Rangers,Texas Rangers signed free agent LHP Dylan MacLean to a minor league contract.,2002-07-12,,,TRUE,2020,17.9247091033539,FALSE,FALSE,TRUE,TRUE
+2020-06-20,SFA,690429,110,Baltimore Orioles,Baltimore Orioles signed free agent OF Dylan Harris to a minor league contract.,1997-01-14,,,FALSE,2020,23.4140999315537,FALSE,FALSE,TRUE,TRUE
+2020-06-20,SFA,676546,536,Tecos de los Dos Laredos,Tecolotes de los Dos Laredos signed free agent RHP Michael Gomez.,1996-08-15,,,TRUE,,23.8302532511978,TRUE,FALSE,FALSE,FALSE
+2020-06-20,SFA,694946,114,Cleveland Guardians,Cleveland Indians signed free agent SS Alonzo Richardson to a minor league contract.,2002-10-07,,,TRUE,2020,17.6865160848734,FALSE,FALSE,TRUE,TRUE
+2020-06-20,SFA,686588,147,New York Yankees,New York Yankees signed free agent RHP Blane Abeyta to a minor league contract.,1998-09-04,,,TRUE,2019,21.7768651608487,FALSE,FALSE,TRUE,TRUE
+2020-06-22,SFA,695805,120,Washington Nationals,Washington Nationals signed free agent OF Landon Dieterich to a minor league contract.,1998-05-05,,,FALSE,,22.1108829568789,FALSE,FALSE,TRUE,TRUE
+2020-06-22,SFA,686766,133,Athletics,Oakland Athletics signed free agent C William Simoneit to a minor league contract.,1996-10-14,,,TRUE,2020,23.6659822039699,FALSE,FALSE,TRUE,TRUE
+2020-06-22,SFA,679711,147,New York Yankees,New York Yankees signed free agent LHP Clay Aguilar to a minor league contract.,1999-03-26,,,FALSE,2020,21.2210814510609,FALSE,FALSE,TRUE,TRUE
+2020-06-22,SFA,694274,120,Washington Nationals,Washington Nationals signed free agent RHP Edward Urena to a minor league contract.,1999-03-21,,,FALSE,2020,21.2347707049966,FALSE,FALSE,TRUE,TRUE
+2020-06-22,SFA,689688,144,Atlanta Braves,Atlanta Braves signed free agent OF Ethan Workinger to a minor league contract.,2001-10-19,,,TRUE,2019,18.652977412731,FALSE,FALSE,TRUE,TRUE
+2020-06-22,SFA,668878,119,Los Angeles Dodgers,Los Angeles Dodgers signed free agent RHP Robbie Peto to a minor league contract.,1998-07-10,,,FALSE,2020,21.9301848049281,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,669192,137,San Francisco Giants,San Francisco Giants signed free agent RHP Wil Jensen to a minor league contract.,1997-09-02,,,TRUE,2020,22.7816563997262,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,668860,118,Kansas City Royals,Kansas City Royals signed free agent C Kale Emshoff to a minor league contract.,1998-05-02,,,FALSE,2020,22.1190965092402,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,695595,117,Houston Astros,Houston Astros signed free agent OF Cody Orr to a minor league contract.,1999-04-02,,,FALSE,,21.201916495551,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,675991,118,Kansas City Royals,Kansas City Royals signed free agent RHP Chase Wallace to a minor league contract.,1998-11-13,,,FALSE,2020,21.5852156057495,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,669111,118,Kansas City Royals,Kansas City Royals signed free agent RHP John McMillon to a minor league contract.,1998-01-27,2023-08-17,,TRUE,2020,22.3791923340178,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,674646,118,Kansas City Royals,Kansas City Royals signed free agent OF Tucker Bradley to a minor league contract.,1998-05-06,,,FALSE,2020,22.1081451060917,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,670191,118,Kansas City Royals,Kansas City Royals signed free agent LHP A.J. Block to a minor league contract.,1998-04-16,,,TRUE,2020,22.1629021218344,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,684544,117,Houston Astros,Houston Astros signed free agent RHP Jimmy Endersby to a minor league contract.,1998-01-16,,,TRUE,2020,22.4093086926763,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,679062,117,Houston Astros,Houston Astros signed free agent RHP Jonathan Sprinkle to a minor league contract.,1998-07-08,,,FALSE,2020,21.9356605065024,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,681522,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP Tyler Keysor to a minor league contract.,1997-12-08,,,FALSE,2020,22.5160848733744,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,685279,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP Leo Nierenberg to a minor league contract.,1998-06-05,,,FALSE,2020,22.0260095824778,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,694820,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP Braxton Roxby to a minor league contract.,1999-03-12,2026-08-28,,TRUE,2020,21.2594113620808,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,682229,5010,Toros de Tijuana,Toros de Tijuana signed free agent RHP Alex Camacho.,1996-07-30,,,FALSE,2018,23.8740588637919,TRUE,TRUE,FALSE,FALSE
+2020-06-23,SFA,676941,118,Kansas City Royals,Kansas City Royals signed free agent C Saul Garza to a minor league contract.,1998-04-09,,,TRUE,2020,22.1820670773443,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,665177,118,Kansas City Royals,Kansas City Royals signed free agent 3B Matthew Schmidt to a minor league contract.,1997-01-15,,,FALSE,2019,23.4113620807666,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,689101,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP James Proctor to a minor league contract.,1998-07-18,,,FALSE,2020,21.9082819986311,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,686730,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP Carson Spiers to a minor league contract.,1997-11-11,2023-09-03,,TRUE,2020,22.590006844627,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,688857,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP Stevie Branche to a minor league contract.,1997-05-18,,,FALSE,2019,23.0746064339494,FALSE,FALSE,TRUE,TRUE
+2020-06-23,SFA,695344,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP Brett Lockwood to a minor league contract.,1997-04-15,,,FALSE,2020,23.1649555099247,FALSE,FALSE,TRUE,TRUE
+2020-06-24,SFA,690585,111,Boston Red Sox,Boston Red Sox signed free agent RHP Cole Milam to a minor league contract.,1998-03-13,,,FALSE,2020,22.2559890485969,FALSE,FALSE,TRUE,TRUE
+2020-06-24,SFA,668977,111,Boston Red Sox,Boston Red Sox signed free agent RHP Graham Hoffman to a minor league contract.,1998-12-26,,,FALSE,2020,21.4674880219028,FALSE,FALSE,TRUE,TRUE
+2020-06-24,SFA,667385,111,Boston Red Sox,Boston Red Sox signed free agent RHP Merfy Andrew to a minor league contract.,1996-11-12,,,FALSE,2020,23.5865845311431,FALSE,FALSE,TRUE,TRUE
+2020-06-24,SFA,694762,111,Boston Red Sox,Boston Red Sox signed free agent SS Jake MacKenzie to a minor league contract.,1999-05-23,,,TRUE,2020,21.0622861054073,FALSE,FALSE,TRUE,TRUE
+2020-06-24,SFA,688984,111,Boston Red Sox,Boston Red Sox signed free agent RHP Robert Kwiatkowski to a minor league contract.,1997-06-08,,,FALSE,2019,23.0171115674196,FALSE,FALSE,TRUE,TRUE
+2020-06-24,SFA,669072,111,Boston Red Sox,Boston Red Sox signed free agent C Jose Garcia to a minor league contract.,1998-05-03,,,FALSE,2020,22.1163586584531,FALSE,FALSE,TRUE,TRUE
+2020-06-24,SFA,669190,111,Boston Red Sox,Boston Red Sox signed free agent 1B Cuba Bess to a minor league contract.,1997-09-29,,,FALSE,2020,22.7077344284737,FALSE,FALSE,TRUE,TRUE
+2020-06-24,SFA,695398,111,Boston Red Sox,Boston Red Sox signed free agent RHP Maceo Campbell to a minor league contract.,1999-06-17,,,FALSE,2020,20.993839835729,FALSE,FALSE,TRUE,TRUE
+2020-06-24,SFA,695836,140,Texas Rangers,Texas Rangers signed free agent C Jose Felix to a minor league contract.,2002-07-23,,,FALSE,,17.8945927446954,FALSE,FALSE,TRUE,TRUE
+2020-06-24,SFA,681487,137,San Francisco Giants,San Francisco Giants signed free agent C Robert Emery to a minor league contract.,1996-10-22,,,TRUE,2020,23.6440793976728,FALSE,FALSE,TRUE,TRUE
+2020-06-25,SFA,682038,520,Pericos de Puebla,Pericos de Puebla signed free agent RHP Miguel Figueroa.,1997-03-22,,,FALSE,2018,23.2306639288159,TRUE,TRUE,FALSE,FALSE
+2020-06-25,SFA,688095,520,Pericos de Puebla,Pericos de Puebla signed free agent RHP Jose Torres.,1996-11-05,,,TRUE,2019,23.605749486653,FALSE,FALSE,FALSE,TRUE
+2020-06-25,SFA,668742,141,Toronto Blue Jays,Toronto Blue Jays signed free agent 2B Harrison Ray to a minor league contract.,1998-01-11,,,FALSE,2020,22.4229979466119,FALSE,FALSE,TRUE,TRUE
+2020-06-25,SFA,674330,141,Toronto Blue Jays,Toronto Blue Jays signed free agent IF Zac Cook to a minor league contract.,1998-04-29,,,FALSE,,22.1273100616016,FALSE,FALSE,TRUE,TRUE
+2020-06-25,SFA,684997,141,Toronto Blue Jays,Toronto Blue Jays signed free agent OF MacKenzie Mueller to a minor league contract.,1997-12-16,,,FALSE,,22.4941820670773,FALSE,FALSE,TRUE,TRUE
+2020-06-25,SFA,622236,520,Pericos de Puebla,Pericos de Puebla signed free agent RHP Ryan Newell.,1991-06-18,,,FALSE,2012,28.9911019849418,TRUE,TRUE,FALSE,FALSE
+2020-06-26,SFA,695274,115,Colorado Rockies,Colorado Rockies signed free agent LHP Tanner Propst to a minor league contract.,1998-06-07,,,FALSE,2020,22.0205338809035,FALSE,FALSE,TRUE,TRUE
+2020-06-26,SFA,689047,112,Chicago Cubs,Chicago Cubs signed free agent OF Jacob Wetzel to a minor league contract.,2000-03-26,,,TRUE,2019,20.2190280629706,FALSE,FALSE,TRUE,TRUE
+2020-06-26,SFA,686977,112,Chicago Cubs,Chicago Cubs signed free agent OF Bradlee Beesley to a minor league contract.,1998-02-21,,,FALSE,2020,22.3107460643395,FALSE,FALSE,TRUE,TRUE
+2020-06-26,SFA,670223,112,Chicago Cubs,Chicago Cubs signed free agent 1B Matt Mervis to a minor league contract.,1998-04-16,2023-05-05,,TRUE,2020,22.1629021218344,FALSE,FALSE,TRUE,TRUE
+2020-06-26,SFA,685096,112,Chicago Cubs,Chicago Cubs signed free agent 2B Scott McKeon to a minor league contract.,1997-10-30,,,FALSE,2020,22.6228610540726,FALSE,FALSE,TRUE,TRUE
+2020-06-26,SFA,679523,115,Colorado Rockies,Colorado Rockies signed free agent C Luke Leisenring to a minor league contract.,1999-10-01,,,FALSE,2020,20.703627652293,FALSE,FALSE,TRUE,TRUE
+2020-06-26,SFA,695835,138,St. Louis Cardinals,St. Louis Cardinals signed free agent RHP Edwin Nunez to a minor league contract.,2001-11-05,,,TRUE,,18.6064339493498,FALSE,FALSE,TRUE,TRUE
+2020-06-27,SFA,685127,113,Cincinnati Reds,Cincinnati Reds signed free agent 1B Alex McGarry to a minor league contract.,1998-05-11,,,FALSE,2020,22.0944558521561,FALSE,FALSE,TRUE,TRUE
+2020-06-27,SFA,694929,113,Cincinnati Reds,Cincinnati Reds signed free agent SS Gus Steiger to a minor league contract.,1999-04-20,,,FALSE,2020,21.1526351813826,FALSE,FALSE,TRUE,TRUE
+2020-06-27,SFA,688005,113,Cincinnati Reds,Cincinnati Reds signed free agent SS Francisco Urbaez to a minor league contract.,1997-10-13,,,TRUE,2020,22.6694045174538,FALSE,FALSE,TRUE,TRUE
+2020-06-28,SFA,622110,147,New York Yankees,New York Yankees signed free agent 3B Matt Duffy to a minor league contract and invited him to spring training.,1991-01-15,2014-05-22,2024-09-28,FALSE,2012,29.4127310061602,TRUE,TRUE,TRUE,FALSE
+2020-06-28,SFA,664120,147,New York Yankees,New York Yankees signed free agent C Max McDowell to a minor league contract and invited him to spring training.,1994-01-12,,,FALSE,2015,26.4202600958248,TRUE,TRUE,TRUE,FALSE
+2020-06-29,SFA,493596,121,New York Mets,New York Mets signed free agent 2B Gordon Beckham to a minor league contract and invited him to spring training.,1986-09-16,2009-06-04,2019-09-28,FALSE,2008,33.7440109514032,TRUE,FALSE,TRUE,FALSE
+2020-06-29,SFA,695467,111,Boston Red Sox,Boston Red Sox signed free agent C Juan Montero to a minor league contract.,2002-06-10,,,TRUE,2020,18.0123203285421,FALSE,FALSE,TRUE,TRUE
+2020-06-29,SFA,694265,111,Boston Red Sox,Boston Red Sox signed free agent RHP Henry Nunez to a minor league contract.,2001-04-30,,,FALSE,2020,19.1238877481177,FALSE,FALSE,TRUE,TRUE
+2020-06-29,SFA,641477,121,New York Mets,New York Mets signed free agent RF Ryan Cordell to a minor league contract and invited him to spring training.,1992-03-31,2018-09-03,2020-09-27,FALSE,2013,28.2053388090349,TRUE,TRUE,TRUE,FALSE
+2020-06-29,SFA,543883,146,Miami Marlins,Miami Marlins signed free agent RHP Nick Vincent to a minor league contract and invited him to spring training.,1986-07-12,2012-06-26,2021-10-03,FALSE,2008,33.9247091033539,TRUE,FALSE,TRUE,FALSE
+2020-06-29,SFA,670183,133,Athletics,Oakland Athletics signed free agent RHP Garrett Acton to a minor league contract.,1998-06-15,2023-05-14,,TRUE,2020,21.9986310746064,FALSE,FALSE,TRUE,TRUE
+2020-06-29,SFA,541640,121,New York Mets,New York Mets signed free agent RHP Erasmo Ramirez to a minor league contract and invited him to spring training.,1990-05-02,2012-04-09,,TRUE,,30.1190965092403,TRUE,FALSE,TRUE,FALSE
+2020-06-29,SFA,466320,121,New York Mets,New York Mets signed free agent OF Melky Cabrera to a minor league contract and invited him to spring training.,1984-08-11,2005-07-07,2019-09-29,FALSE,,35.8412046543463,TRUE,FALSE,TRUE,FALSE
+2020-06-29,SFA,690530,111,Boston Red Sox,Boston Red Sox signed free agent RHP Casey Cobb to a minor league contract.,1996-06-27,,,FALSE,2019,23.9644079397673,FALSE,FALSE,TRUE,TRUE
+2020-06-29,SFA,595386,442,Olmecas de Tabasco,Olmecas de Tabasco signed free agent 1B Jason Rogers.,1988-03-13,2014-09-02,2016-10-02,FALSE,2010,32.2546201232033,TRUE,FALSE,FALSE,FALSE
+2020-06-29,SFA,692024,520,Pericos de Puebla,Pericos de Puebla signed free agent RHP Alex Carrillo.,1997-06-06,2025-07-08,,TRUE,,23.0225872689938,TRUE,FALSE,FALSE,FALSE
+2020-06-29,SFA,688978,133,Athletics,Oakland Athletics signed free agent OF D.J. Lee to a minor league contract.,1996-07-15,,,FALSE,2019,23.9151266255989,FALSE,FALSE,TRUE,TRUE
+2020-06-29,SFA,687013,133,Athletics,Oakland Athletics signed free agent C Cooper Uhl to a minor league contract.,1997-10-19,,,FALSE,2020,22.652977412731,FALSE,FALSE,TRUE,TRUE
+2020-06-29,SFA,519326,121,New York Mets,New York Mets signed free agent RHP Hunter Strickland to a minor league contract and invited him to spring training.,1988-09-24,2014-09-01,,TRUE,2007,31.7207392197125,TRUE,FALSE,TRUE,FALSE
+2020-06-30,SFA,670192,145,Chicago White Sox,Chicago White Sox signed free agent SS Brandon Bossard to a minor league contract.,1997-06-10,,,FALSE,2019,23.0116358658453,FALSE,FALSE,TRUE,TRUE
+2020-06-30,SFA,453172,121,New York Mets,New York Mets signed free agent RHP Jared Hughes.,1985-07-04,2011-09-07,2020-09-27,FALSE,2006,34.9459274469541,TRUE,FALSE,FALSE,FALSE
+2020-06-30,SFA,690232,112,Chicago Cubs,Chicago Cubs signed free agent RHP Bailey Reid to a minor league contract.,1998-07-03,,,FALSE,2020,21.9493497604381,FALSE,FALSE,TRUE,TRUE
+2020-06-30,SFA,695841,145,Chicago White Sox,Chicago White Sox signed free agent OF AJ Gill to a minor league contract.,1998-04-15,,,FALSE,,22.1656399726215,FALSE,FALSE,TRUE,TRUE
+2020-06-30,SFA,663379,112,Chicago Cubs,Chicago Cubs signed free agent RHP Graham Lawson to a minor league contract.,1996-06-07,,,FALSE,2020,24.0191649555099,FALSE,FALSE,TRUE,TRUE
+2020-06-30,SFA,687046,145,Chicago White Sox,Chicago White Sox signed free agent LHP Ty Madrigal to a minor league contract.,1997-03-05,,,FALSE,2020,23.2772073921971,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,446481,146,Miami Marlins,Miami Marlins signed free agent 3B Sean Rodriguez to a minor league contract.,1985-04-26,2008-04-19,2020-09-19,FALSE,2003,35.1348391512663,TRUE,FALSE,TRUE,FALSE
+2020-07-01,SFA,687999,120,Washington Nationals,Washington Nationals signed free agent C Ray Torres to a minor league contract.,2000-04-09,,,TRUE,2020,20.1806981519507,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,668976,116,Detroit Tigers,Detroit Tigers signed free agent OF Austin Langworthy to a minor league contract.,1997-09-08,,,FALSE,2020,22.7652292950034,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,695271,120,Washington Nationals,Washington Nationals signed free agent SS Gio Diaz to a minor league contract.,1999-02-09,,,FALSE,2020,21.3442847364819,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,694350,120,Washington Nationals,Washington Nationals signed free agent RHP Zach Brzykcy to a minor league contract.,1999-07-12,2024-09-01,,TRUE,2020,20.9253935660507,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,695361,116,Detroit Tigers,Detroit Tigers signed free agent RHP Carson King to a minor league contract.,1999-12-05,,,FALSE,2020,20.5256673511294,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,694678,120,Washington Nationals,Washington Nationals signed free agent SS Quade Tomlin to a minor league contract.,2002-02-11,,,FALSE,2020,18.3381245722108,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,675578,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP Myles Gayman to a minor league contract.,1998-02-19,,,FALSE,2020,22.3162217659138,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,676354,116,Detroit Tigers,Detroit Tigers signed free agent OF DJ Poteet to a minor league contract.,1998-06-12,,,FALSE,2020,22.0068446269678,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,689787,120,Washington Nationals,Washington Nationals signed free agent OF Zach Cornell to a minor league contract.,1997-12-18,,,FALSE,2019,22.4887063655031,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,673958,120,Washington Nationals,Washington Nationals signed free agent 2B Brian Klein to a minor league contract.,1998-06-01,,,FALSE,2020,22.0369609856263,FALSE,FALSE,TRUE,TRUE
+2020-07-01,SFA,687696,116,Detroit Tigers,Detroit Tigers signed free agent OF Trevin Esquerra to a minor league contract.,1998-05-20,,,FALSE,2020,22.0698151950719,FALSE,FALSE,TRUE,TRUE
+2020-07-02,SFA,695870,121,New York Mets,New York Mets signed free agent RHP Richard Brito to a minor league contract.,1998-11-05,,,TRUE,,21.6071184120465,FALSE,FALSE,TRUE,TRUE
+2020-07-02,SFA,695815,142,Minnesota Twins,Minnesota Twins signed free agent LHP Lucas Sweany to a minor league contract.,1999-05-05,,,FALSE,,21.1115674195756,FALSE,FALSE,TRUE,TRUE
+2020-07-02,SFA,679013,121,New York Mets,New York Mets signed free agent RHP Sammy Tavarez to a minor league contract.,1998-10-20,,,TRUE,,21.6509240246407,FALSE,FALSE,TRUE,TRUE
+2020-07-02,SFA,695840,109,Arizona Diamondbacks,Arizona Diamondbacks signed free agent OF Dominic Gonnella to a minor league contract.,2001-09-16,,,FALSE,,18.7433264887064,FALSE,FALSE,TRUE,TRUE
+2020-07-02,SFA,688803,134,Pittsburgh Pirates,Pittsburgh Pirates signed free agent C Joe Jimenez to a minor league contract.,1998-02-22,,,FALSE,2020,22.3080082135524,FALSE,FALSE,TRUE,TRUE
+2020-07-03,SFA,461314,115,Colorado Rockies,Colorado Rockies signed free agent LF Matt Kemp to a minor league contract.,1984-09-23,2006-05-28,2020-09-25,FALSE,2003,35.7234770704997,TRUE,FALSE,TRUE,FALSE
+2020-07-03,SFA,456696,114,Cleveland Guardians,Cleveland Indians signed free agent RHP David Hernandez to a minor league contract and invited him to spring training.,1985-05-13,2009-05-28,2019-08-08,FALSE,2005,35.088295687885,TRUE,FALSE,TRUE,FALSE
+2020-07-03,SFA,518653,114,Cleveland Guardians,Cleveland Indians signed free agent 2B Jake Elmore to a minor league contract and invited him to spring training.,1987-06-15,2012-08-11,2019-09-29,FALSE,2008,32.9993155373032,TRUE,FALSE,TRUE,FALSE
+2020-07-03,SFA,449181,536,Tecos de los Dos Laredos,Tecolotes de los Dos Laredos signed free agent OF Paulo Orlando.,1985-11-01,2015-04-09,2018-07-23,FALSE,,34.6173853524983,TRUE,FALSE,FALSE,FALSE
+2020-07-03,SFA,643539,111,Boston Red Sox,Boston Red Sox signed free agent RHP Caleb Simpson to a minor league contract.,1991-09-15,,,FALSE,2013,28.7474332648871,TRUE,TRUE,TRUE,FALSE
+2020-07-03,SFA,571467,114,Cleveland Guardians,Cleveland Indians signed free agent C Steven Baron to a minor league contract and invited him to spring training.,1990-12-07,2015-09-09,2019-09-28,FALSE,2009,29.5195071868583,TRUE,FALSE,TRUE,FALSE
+2020-07-03,SFA,695845,140,Texas Rangers,Texas Rangers signed free agent C Ismael Padua to a minor league contract.,2002-09-11,,,FALSE,,17.7577002053388,FALSE,FALSE,TRUE,TRUE
+2020-07-04,SFA,679645,112,Chicago Cubs,Chicago Cubs signed free agent RHP Sam Thoresen to a minor league contract.,1998-09-21,,,TRUE,2020,21.7303216974675,FALSE,FALSE,TRUE,TRUE
+2020-07-05,SFA,690464,145,Chicago White Sox,Chicago White Sox signed free agent RHP Jordan Mikel to a minor league contract.,1999-03-24,,,FALSE,2020,21.2265571526352,FALSE,FALSE,TRUE,TRUE
+2020-07-06,SFA,680420,133,Athletics,Oakland Athletics signed free agent RHP Grant Judkins to a minor league contract.,1997-08-06,,,TRUE,2020,22.8555783709788,FALSE,FALSE,TRUE,TRUE
+2020-07-06,SFA,690178,108,Los Angeles Angels,Los Angeles Angels signed free agent OF Elijah Greene to a minor league contract.,1997-11-25,,,FALSE,2020,22.5516769336071,FALSE,FALSE,TRUE,TRUE
+2020-07-06,SFA,694496,142,Minnesota Twins,Minnesota Twins signed free agent RHP John Stankiewicz to a minor league contract.,1998-09-08,,,TRUE,2020,21.7659137577002,FALSE,FALSE,TRUE,TRUE
+2020-07-06,SFA,685795,133,Athletics,Oakland Athletics signed free agent OF Jake Suddleson to a minor league contract.,1997-12-30,,,FALSE,,22.4558521560575,FALSE,FALSE,TRUE,TRUE
+2020-07-07,SFA,667692,5010,Toros de Tijuana,Toros de Tijuana signed free agent C Adalberto Carrillo.,1995-06-01,,,FALSE,2017,25.0376454483231,TRUE,TRUE,FALSE,FALSE
+2020-07-07,SFA,687422,116,Detroit Tigers,Detroit Tigers signed free agent RHP Chris Mauloni to a minor league contract.,1998-06-16,,,FALSE,2020,21.9958932238193,FALSE,FALSE,TRUE,TRUE
+2020-07-07,SFA,573109,119,Los Angeles Dodgers,Los Angeles Dodgers signed free agent RHP AJ Ramos to a minor league contract and invited him to spring training.,1986-09-20,2012-09-04,2021-10-03,FALSE,2009,33.7330595482546,TRUE,FALSE,TRUE,FALSE
+2020-07-07,SFA,689464,110,Baltimore Orioles,Baltimore Orioles signed free agent RHP Shane Davis to a minor league contract.,1999-08-26,,,FALSE,2020,20.8021902806297,FALSE,FALSE,TRUE,TRUE
+2020-07-07,SFA,607632,5010,Toros de Tijuana,Toros de Tijuana signed free agent 2B Chris Mariscal.,1993-04-26,,,FALSE,2014,27.1348391512663,TRUE,TRUE,FALSE,FALSE
+2020-07-07,SFA,689546,116,Detroit Tigers,Detroit Tigers signed free agent RHP Nick Davila to a minor league contract.,1998-11-21,2026-05-03,,TRUE,2020,21.5633127994524,FALSE,FALSE,TRUE,TRUE
+2020-07-08,SFA,694261,112,Chicago Cubs,Chicago Cubs signed free agent RHP Angel Gonzalez to a minor league contract.,2002-08-26,,,FALSE,2020,17.8015058179329,FALSE,FALSE,TRUE,TRUE
+2020-07-09,SFA,668929,158,Milwaukee Brewers,Milwaukee Brewers signed free agent 2B Noah Campbell to a minor league contract.,1999-06-06,,,FALSE,2020,21.0239561943874,FALSE,FALSE,TRUE,TRUE
+2020-07-09,SFA,591712,118,Kansas City Royals,Kansas City Royals signed free agent C Oscar Hernandez to a minor league contract and invited him to spring training.,1993-07-09,2015-07-12,2020-08-01,FALSE,,26.9322381930185,TRUE,FALSE,TRUE,FALSE
+2020-07-09,SFA,669163,146,Miami Marlins,Miami Marlins signed free agent LHP Antonio Velez to a minor league contract.,1997-03-31,,,FALSE,2020,23.2060232717317,FALSE,FALSE,TRUE,TRUE
+2020-07-09,SFA,461872,143,Philadelphia Phillies,Philadelphia Phillies signed free agent RHP Anthony Swarzak to a minor league contract and invited him to spring training.,1985-09-10,2009-05-23,2021-07-10,FALSE,2004,34.7597535934292,TRUE,FALSE,TRUE,FALSE
+2020-07-10,SFA,679780,116,Detroit Tigers,Detroit Tigers signed free agent LHP Gabriel Sequeira to a minor league contract.,1997-08-18,,,FALSE,,22.8227241615332,FALSE,FALSE,TRUE,TRUE
+2020-07-10,SFA,573127,5434,Sugar Land Space Cowboys,Sugar Land Skeeters signed free agent Zac Rosscup.,1988-06-09,2013-09-03,,TRUE,2009,32.0136892539357,TRUE,FALSE,FALSE,FALSE
+2020-07-10,SFA,605335,1956,Somerset Patriots,Somerset Patriots signed free agent LHP Brandon Leibrandt.,1992-12-13,2020-08-23,,TRUE,2014,27.501711156742,TRUE,TRUE,FALSE,FALSE
+2020-07-10,SFA,695865,116,Detroit Tigers,Detroit Tigers signed free agent RHP Wilmer Flores to a minor league contract.,2001-02-20,,,FALSE,,19.3127994524298,FALSE,FALSE,TRUE,TRUE
+2020-07-13,SFA,695871,442,Olmecas de Tabasco,Olmecas de Tabasco signed free agent LHP Jesus Broca.,2003-10-16,,,TRUE,,16.662559890486,FALSE,FALSE,FALSE,FALSE
+2020-07-13,SFA,687648,134,Pittsburgh Pirates,Pittsburgh Pirates signed free agent RHP Parker Brahms to a minor league contract.,1997-12-02,,,FALSE,2020,22.5325119780972,FALSE,FALSE,TRUE,TRUE
+2020-07-14,SFA,446653,112,Chicago Cubs,Chicago Cubs signed free agent C Jose Lobaton to a minor league contract and invited him to spring training.,1984-10-21,2009-07-05,2021-06-29,FALSE,,35.64681724846,TRUE,FALSE,TRUE,FALSE
+2020-07-14,SFA,700265,109,Arizona Diamondbacks,Arizona Diamondbacks signed free agent 1B Lucas Martino.,2001-02-14,,,FALSE,,19.3292265571526,FALSE,FALSE,FALSE,TRUE
+2020-07-14,SFA,686833,109,Arizona Diamondbacks,Arizona Diamondbacks signed free agent RF Danny Oriente to a minor league contract.,1997-10-08,,,FALSE,2020,22.6830937713895,FALSE,FALSE,TRUE,TRUE
+2020-07-15,SFA,688910,115,Colorado Rockies,Colorado Rockies signed free agent RHP Blake Goldsberry to a minor league contract.,1997-05-21,,,FALSE,2020,23.066392881588,FALSE,FALSE,TRUE,TRUE
+2020-07-16,SFA,695965,119,Los Angeles Dodgers,Los Angeles Dodgers signed free agent 3B Andy Espinosa to a minor league contract.,2003-01-25,,,FALSE,,17.3853524982888,FALSE,FALSE,TRUE,TRUE
+2020-07-16,SFA,640902,111,Boston Red Sox,Boston Red Sox signed free agent C Jhonny Pereda to a minor league contract and invited him to spring training.,1996-04-18,2024-04-17,,TRUE,,24.1560574948665,TRUE,FALSE,TRUE,FALSE
+2020-07-17,SFA,674441,113,Cincinnati Reds,Cincinnati Reds signed free agent OF Jacob Hurtubise to a minor league contract.,1997-12-11,2024-05-13,,TRUE,2020,22.507871321013,FALSE,FALSE,TRUE,TRUE
+2020-07-17,SFA,689944,158,Milwaukee Brewers,Milwaukee Brewers signed free agent LHP Jason Munsch to a minor league contract.,1999-05-12,,,FALSE,2019,21.0924024640657,FALSE,FALSE,TRUE,TRUE
+2020-07-17,SFA,695890,158,Milwaukee Brewers,Milwaukee Brewers signed free agent IF Drew Smith to a minor league contract.,1998-09-02,,,FALSE,,21.782340862423,FALSE,FALSE,TRUE,TRUE
+2020-07-17,SFA,687822,158,Milwaukee Brewers,Milwaukee Brewers signed free agent LHP Brandon Knarr to a minor league contract.,1998-06-02,,,FALSE,2020,22.0342231348392,FALSE,FALSE,TRUE,TRUE
+2020-07-17,SFA,643327,111,Boston Red Sox,Boston Red Sox signed free agent RHP Zack Godley to a minor league contract and invited him to spring training.,1990-04-21,2015-07-23,2021-06-20,FALSE,2013,30.1492128678987,TRUE,TRUE,TRUE,FALSE
+2020-07-20,SFA,571431,144,Atlanta Braves,Atlanta Braves signed free agent 1B Matt Adams to a minor league contract and invited him to spring training.,1988-08-31,2012-05-20,2021-07-24,FALSE,2009,31.7864476386037,TRUE,FALSE,TRUE,FALSE
+2020-07-21,SFA,687858,136,Seattle Mariners,Seattle Mariners signed free agent SS Brett Rodriguez to a minor league contract.,1998-05-06,,,FALSE,2020,22.1081451060917,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,681048,142,Minnesota Twins,Minnesota Twins signed free agent C Allante Hall to a minor league contract.,1999-04-09,,,FALSE,2019,21.1827515400411,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,686663,142,Minnesota Twins,Minnesota Twins signed free agent LHP Zarion Sharpe to a minor league contract.,1998-09-30,,,FALSE,2020,21.7056810403833,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,688032,136,Seattle Mariners,Seattle Mariners signed free agent C Matt Scheffler to a minor league contract.,1998-02-06,,,TRUE,2020,22.3518138261465,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,669649,136,Seattle Mariners,Seattle Mariners signed free agent C Ty Duvall to a minor league contract.,1997-07-11,,,FALSE,2020,22.9267624914442,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,669671,136,Seattle Mariners,Seattle Mariners signed free agent 2B Justin Lavey to a minor league contract.,1997-09-23,,,FALSE,2020,22.7241615331964,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,675640,143,Philadelphia Phillies,Philadelphia Phillies signed free agent RHP Braden Zarbnisky to a minor league contract.,1996-12-26,,,FALSE,2020,23.4661190965092,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,695996,142,Minnesota Twins,Minnesota Twins signed free agent RHP Juan Mendez to a minor league contract.,1998-10-18,,,FALSE,,21.6563997262149,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,663510,112,Chicago Cubs,Chicago Cubs signed free agent RHP Ben Leeper to a minor league contract.,1997-06-15,,,FALSE,2020,22.9979466119097,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,663477,112,Chicago Cubs,Chicago Cubs signed free agent RHP Sheldon Reed to a minor league contract.,1997-07-30,,,FALSE,2019,22.8747433264887,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,695995,142,Minnesota Twins,Minnesota Twins signed free agent RHP Tomas Cleto to a minor league contract.,2000-10-09,,,FALSE,,19.6796714579055,FALSE,FALSE,TRUE,TRUE
+2020-07-21,SFA,468504,144,Atlanta Braves,Atlanta Braves signed free agent RHP Jhoulys Chacin.,1988-01-07,2009-07-25,2022-09-11,FALSE,,32.435318275154,TRUE,FALSE,FALSE,FALSE
+2020-07-22,SFA,572821,121,New York Mets,New York Mets signed free agent 2B Brian Dozier to a minor league contract and invited him to spring training.,1987-05-15,2012-05-07,2020-08-14,FALSE,2009,33.0841889117043,TRUE,FALSE,TRUE,FALSE
+2020-07-22,SFA,501571,121,New York Mets,New York Mets signed free agent CF Juan Lagares to a minor league contract and invited him to spring training.,1989-03-17,2013-04-23,,TRUE,,31.2443531827515,TRUE,FALSE,TRUE,FALSE
+2020-07-23,SFA,518618,112,Chicago Cubs,Chicago Cubs signed free agent 2B Derek Dietrich to a minor league contract and invited him to spring training.,1989-07-18,2013-05-08,2020-09-27,FALSE,2010,30.9075975359343,TRUE,FALSE,TRUE,FALSE
+2020-07-23,SFA,534606,112,Chicago Cubs,Chicago Cubs signed free agent OF Ryan LaMarre to a minor league contract and invited him to spring training.,1988-11-21,2015-08-22,2021-07-29,FALSE,2010,31.5619438740589,TRUE,FALSE,TRUE,FALSE
+2020-07-23,SFA,572365,145,Chicago White Sox,Chicago White Sox signed free agent 2B Ryan Goins to a minor league contract and invited him to spring training.,1988-02-13,2013-08-23,2020-08-29,FALSE,2009,32.3340177960301,TRUE,FALSE,TRUE,FALSE
+2020-07-23,SFA,543766,136,Seattle Mariners,Seattle Mariners signed free agent Bryan Shaw.,1987-11-08,2011-06-10,2024-04-10,FALSE,2008,32.5995893223819,TRUE,FALSE,FALSE,FALSE
+2020-07-24,SFA,682126,158,Milwaukee Brewers,Milwaukee Brewers signed free agent RHP Evan Reifert to a minor league contract.,1999-05-14,,,TRUE,2020,21.0869267624914,FALSE,FALSE,TRUE,TRUE
+2020-07-24,SFA,669298,158,Milwaukee Brewers,Milwaukee Brewers signed free agent RHP TJ Shook to a minor league contract.,1998-05-29,2026-06-02,,TRUE,2020,22.0451745379877,FALSE,FALSE,TRUE,TRUE
+2020-07-24,SFA,501983,146,Miami Marlins,Miami Marlins signed free agent OF Travis Snider to a minor league contract and invited him to spring training.,1988-02-02,2008-08-29,2015-10-04,FALSE,2006,32.3641341546886,TRUE,FALSE,TRUE,FALSE
+2020-07-25,SFA,543302,137,San Francisco Giants,San Francisco Giants signed free agent C Chris Herrmann to a minor league contract.,1987-11-24,2012-09-16,2019-09-09,FALSE,2009,32.5557837097878,TRUE,FALSE,TRUE,FALSE
+2020-07-25,SFA,472551,147,New York Yankees,New York Yankees signed free agent LHP Fernando Abad to a minor league contract and invited him to spring training.,1985-12-17,2010-07-28,,TRUE,,34.4914442162902,TRUE,FALSE,TRUE,FALSE
+2020-07-27,SFA,451705,109,Arizona Diamondbacks,Arizona Diamondbacks signed free agent C Alberto Rosario to a minor league contract and invited him to spring training.,1987-01-10,2016-07-09,2017-10-01,FALSE,,33.4264202600958,TRUE,FALSE,TRUE,FALSE
+2020-07-27,SFA,543281,120,Washington Nationals,Washington Nationals signed free agent 2B Josh Harrison.,1987-07-08,2011-05-31,2023-07-30,FALSE,2008,32.9363449691992,TRUE,FALSE,FALSE,FALSE
+2020-07-28,SFA,687079,520,Pericos de Puebla,Pericos de Puebla signed free agent Kyle Lazcano.,1993-10-03,,,FALSE,,26.6967830253251,FALSE,FALSE,FALSE,FALSE
+2020-07-28,SFA,518774,118,Kansas City Royals,Kansas City Royals signed free agent RHP Matt Harvey to a minor league contract and invited him to spring training.,1989-03-27,2012-07-26,2021-09-08,FALSE,2010,31.2169746748802,TRUE,FALSE,TRUE,FALSE
+2020-07-28,SFA,695900,135,San Diego Padres,San Diego Padres signed free agent RHP Joshua Paulina to a minor league contract.,2002-02-09,,,FALSE,,18.3436002737851,FALSE,FALSE,TRUE,TRUE
+2020-07-28,SFA,677045,137,San Francisco Giants,San Francisco Giants signed free agent LHP Haydn King to a minor league contract.,1998-11-14,,,FALSE,2020,21.5824777549624,FALSE,FALSE,TRUE,TRUE
+2020-07-28,SFA,679882,138,St. Louis Cardinals,St. Louis Cardinals signed free agent LHP John Beller to a minor league contract.,1999-03-06,,,FALSE,2020,21.2758384668036,FALSE,FALSE,TRUE,TRUE
+2020-07-28,SFA,674630,115,Colorado Rockies,Colorado Rockies signed free agent C AJ Lewis to a minor league contract.,1998-05-31,,,FALSE,2019,22.0396988364134,FALSE,FALSE,TRUE,TRUE
+2020-07-28,SFA,687549,140,Texas Rangers,Texas Rangers signed free agent OF Justin Tejeda to a minor league contract.,2001-01-23,,,FALSE,2020,19.3894592744695,FALSE,FALSE,TRUE,TRUE
+2020-07-28,SFA,677040,112,Chicago Cubs,Chicago Cubs signed free agent LHP Scott Kobos to a minor league contract.,1997-08-03,,,FALSE,2020,22.8637919233402,FALSE,FALSE,TRUE,TRUE
+2020-07-30,SFA,622194,121,New York Mets,New York Mets signed free agent C Bruce Maxwell to a minor league contract and invited him to spring training.,1990-12-20,2016-07-23,2018-06-02,FALSE,2012,29.4839151266256,TRUE,TRUE,TRUE,FALSE
+2020-07-30,SFA,700685,120,Washington Nationals,Washington Nationals signed free agent SS Paul Witt to a minor league contract.,1997-10-29,,,FALSE,,22.6255989048597,FALSE,FALSE,TRUE,TRUE
+2020-07-30,SFA,689624,146,Miami Marlins,Miami Marlins signed free agent OF Ashton Easley to a minor league contract.,1997-08-07,,,FALSE,2019,22.8528405201917,FALSE,FALSE,TRUE,TRUE
+2020-07-31,SFA,592102,112,Chicago Cubs,Chicago Cubs signed free agent RHP Cody Allen to a minor league contract and invited him to spring training.,1988-11-20,2012-07-20,2019-06-14,FALSE,2011,31.564681724846,TRUE,FALSE,TRUE,FALSE
+2020-07-31,SFA,679666,121,New York Mets,New York Mets signed free agent RHP Erik Kaiser to a minor league contract.,1998-11-20,,,FALSE,2020,21.5660506502396,FALSE,FALSE,TRUE,TRUE
+2020-07-31,SFA,407845,117,Houston Astros,Houston Astros signed free agent RHP Fernando Rodney to a minor league contract and invited him to spring training.,1977-03-18,2002-05-04,2019-09-28,FALSE,,43.2416153319644,TRUE,FALSE,TRUE,FALSE
+2020-07-31,SFA,696038,117,Houston Astros,Houston Astros signed free agent LHP Hunter Peck to a minor league contract.,1997-05-05,,,FALSE,,23.1101984941821,FALSE,FALSE,TRUE,TRUE
+2020-08-02,SFA,523253,146,Miami Marlins,Miami Marlins signed free agent 2B Logan Forsythe.,1987-01-14,2011-05-04,2020-08-25,FALSE,2008,33.4154688569473,TRUE,FALSE,FALSE,FALSE
+2020-08-03,SFA,670251,142,Minnesota Twins,Minnesota Twins signed free agent LHP John Wilson to a minor league contract.,1997-07-17,,,TRUE,2019,22.9103353867214,FALSE,FALSE,TRUE,TRUE
+2020-08-03,SFA,446868,146,Miami Marlins,Miami Marlins signed free agent C Wilkin Castillo to a minor league contract.,1984-06-01,2008-09-02,2019-06-25,FALSE,,36.0355920602327,TRUE,FALSE,TRUE,FALSE
+2020-08-03,SFA,453385,145,Chicago White Sox,Chicago White Sox signed free agent LHP Clayton Richard to a minor league contract and invited him to spring training.,1983-09-12,2008-07-23,2019-07-13,FALSE,2005,36.7556468172485,TRUE,FALSE,TRUE,FALSE
+2020-08-03,SFA,686993,146,Miami Marlins,Miami Marlins signed free agent RHP Justin Sterner to a minor league contract.,1996-08-29,2024-05-31,,TRUE,2020,23.791923340178,FALSE,FALSE,TRUE,TRUE
+2020-08-05,SFA,519381,146,Miami Marlins,Miami Marlins signed free agent SHP Pat Venditte to a minor league contract and invited him to spring training.,1985-06-30,2015-06-05,2020-08-18,FALSE,2008,34.9568788501027,TRUE,FALSE,TRUE,FALSE
+2020-08-06,SFA,516969,112,Chicago Cubs,Chicago Cubs signed free agent RHP Kelvin Herrera to a minor league contract and invited him to spring training.,1989-12-31,2011-09-21,2020-07-26,FALSE,,30.4531143052704,TRUE,FALSE,TRUE,FALSE
+2020-08-07,SFA,518464,111,Boston Red Sox,Boston Red Sox signed free agent RHP Seth Blair to a minor league contract and invited him to spring training.,1989-03-03,,,FALSE,2010,31.2826830937714,TRUE,FALSE,TRUE,FALSE
+2020-08-08,SFA,677041,120,Washington Nationals,Washington Nationals signed free agent SS Jake Boone to a minor league contract.,1999-03-23,,,FALSE,2020,21.2292950034223,FALSE,FALSE,TRUE,TRUE
+2020-08-10,SFA,571676,136,Seattle Mariners,Seattle Mariners signed free agent RHP Seth Frankoff to a minor league contract and invited him to spring training.,1988-08-27,2017-06-09,2021-06-03,FALSE,2010,31.7973990417522,TRUE,FALSE,TRUE,FALSE
+2020-08-11,SFA,674056,147,New York Yankees,New York Yankees signed free agent LHP Ben Keizer to a minor league contract.,1997-08-28,,,FALSE,2019,22.7953456536619,FALSE,FALSE,TRUE,TRUE
+2020-08-12,SFA,688552,112,Chicago Cubs,Chicago Cubs signed free agent 2B Matt Burch to a minor league contract.,1997-12-13,,,FALSE,2019,22.5023956194387,FALSE,FALSE,TRUE,TRUE
+2020-08-12,SFA,695910,143,Philadelphia Phillies,Philadelphia Phillies signed free agent LHP Corey Phelan to a minor league contract.,2002-07-03,,,FALSE,,17.9493497604381,FALSE,FALSE,TRUE,TRUE
+2020-08-13,SFA,668319,144,Atlanta Braves,Atlanta Braves signed free agent RHP Coleman Huntley to a minor league contract.,1993-03-10,,,FALSE,,27.2635181382615,FALSE,FALSE,TRUE,FALSE
+2020-08-14,SFA,700268,110,Baltimore Orioles,Baltimore Orioles signed free agent P Elchero Francisca.,2002-08-10,,,FALSE,,17.845311430527,FALSE,FALSE,FALSE,TRUE
+2020-08-14,SFA,695930,110,Baltimore Orioles,Baltimore Orioles signed free agent IF Frederick Bencosme to a minor league contract.,2002-12-25,,,TRUE,,17.4702258726899,FALSE,FALSE,TRUE,TRUE
+2020-08-17,SFA,474568,147,New York Yankees,New York Yankees signed free agent SS Jordy Mercer to a minor league contract and invited him to spring training.,1986-08-27,2012-05-29,2021-10-03,FALSE,2008,33.7987679671458,TRUE,FALSE,TRUE,FALSE
+2020-08-18,SFA,695935,113,Cincinnati Reds,Cincinnati Reds signed free agent C Vincent Timpanelli to a minor league contract.,1998-10-02,,,FALSE,,21.700205338809,FALSE,FALSE,TRUE,TRUE
+2020-08-18,SFA,608650,139,Tampa Bay Rays,Tampa Bay Rays signed free agent LHP Dietrich Enns to a minor league contract and invited him to spring training.,1991-05-16,2017-08-10,,TRUE,2012,29.0814510609172,TRUE,TRUE,TRUE,FALSE
+2020-08-21,SFA,695940,112,Chicago Cubs,Chicago Cubs signed free agent 2B Bryan Serra to a minor league contract.,1998-09-07,,,FALSE,,21.7686516084873,FALSE,FALSE,TRUE,TRUE
+2020-08-23,SFA,621550,112,Chicago Cubs,Chicago Cubs signed free agent 1B Patrick Wisdom to a minor league contract and invited him to spring training.,1991-08-27,2018-08-12,,TRUE,2012,28.7994524298426,TRUE,TRUE,TRUE,FALSE
+2020-08-24,SFA,679156,118,Kansas City Royals,Kansas City Royals signed free agent LHP Walter Pennington to a minor league contract.,1998-04-14,2024-07-05,,TRUE,,22.1683778234086,FALSE,FALSE,TRUE,TRUE
+2020-08-25,SFA,543351,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP Jay Jackson to a minor league contract.,1987-10-27,2015-09-14,2024-06-20,FALSE,2008,32.6324435318275,TRUE,FALSE,TRUE,FALSE
+2020-08-25,SFA,695945,137,San Francisco Giants,San Francisco Giants signed free agent RHP German Malave to a minor league contract.,2000-10-23,,,FALSE,,19.6413415468857,FALSE,FALSE,TRUE,TRUE
+2020-08-28,SFA,570560,145,Chicago White Sox,Chicago White Sox signed free agent 2B Yolmer Sanchez to a minor league contract and invited him to spring training.,1992-06-29,2014-07-13,,TRUE,,27.958932238193,TRUE,FALSE,TRUE,FALSE
+2020-08-28,SFA,695946,137,San Francisco Giants,San Francisco Giants signed free agent RHP Junior Flores to a minor league contract.,2002-02-13,,,TRUE,,18.3326488706366,FALSE,FALSE,TRUE,TRUE
+2020-08-28,SFA,695960,111,Boston Red Sox,Boston Red Sox signed free agent RHP Joey Stock to a minor league contract.,1997-09-08,,,FALSE,,22.7652292950034,FALSE,FALSE,TRUE,TRUE
+2020-08-29,SFA,571788,120,Washington Nationals,Washington Nationals signed free agent 2B Brock Holt.,1988-06-11,2012-09-01,2021-10-02,FALSE,2009,32.0082135523614,TRUE,FALSE,FALSE,FALSE
+2020-08-30,SFA,595191,140,Texas Rangers,Texas Rangers signed free agent RHP Jerad Eickhoff to a minor league contract and invited him to spring training.,1990-07-02,2015-08-21,2022-06-22,FALSE,2011,29.9520876112252,TRUE,FALSE,TRUE,FALSE
+2020-08-31,SFA,695950,113,Cincinnati Reds,Cincinnati Reds signed free agent LHP Nicolo Pinazzi to a minor league contract.,1999-10-25,,,TRUE,,20.6379192334018,FALSE,FALSE,TRUE,TRUE
+2020-09-01,SFA,695985,111,Boston Red Sox,Boston Red Sox signed free agent RHP Nate Tellier to a minor league contract.,1998-06-05,,,FALSE,,22.0260095824778,FALSE,FALSE,TRUE,TRUE
+2020-09-01,SFA,695955,119,Los Angeles Dodgers,Los Angeles Dodgers signed free agent RHP Luis Joseph to a minor league contract.,2003-04-22,,,FALSE,,17.1471594798084,FALSE,FALSE,TRUE,TRUE
+2020-09-02,SFA,695971,117,Houston Astros,Houston Astros signed free agent RHP Jose Andujar to a minor league contract.,2002-02-10,,,FALSE,,18.3408624229979,FALSE,FALSE,TRUE,TRUE
+2020-09-02,SFA,501593,147,New York Yankees,New York Yankees signed free agent LHP Luis Avilan to a minor league contract.,1989-07-19,2012-07-14,2021-04-15,FALSE,,30.9048596851472,TRUE,FALSE,TRUE,FALSE
+2020-09-04,SFA,695297,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP Carson Rudd to a minor league contract.,1998-09-17,,,FALSE,2020,21.741273100616,FALSE,FALSE,TRUE,TRUE
+2020-09-04,SFA,695972,158,Milwaukee Brewers,Milwaukee Brewers signed free agent RHP Jeison Pena to a minor league contract.,2002-09-14,,,FALSE,,17.7494866529774,FALSE,FALSE,TRUE,TRUE
+2020-09-05,SFA,594311,134,Pittsburgh Pirates,Pittsburgh Pirates signed free agent RHP Jandel Gustave to a minor league contract.,1992-10-12,2016-08-11,2022-07-31,FALSE,,27.6714579055442,TRUE,FALSE,TRUE,FALSE
+2020-09-05,SFA,467008,112,Chicago Cubs,Chicago Cubs signed free agent RHP Pedro Strop to a minor league contract and invited him to spring training.,1985-06-13,2009-08-28,2021-04-16,FALSE,,35.0034223134839,TRUE,FALSE,TRUE,FALSE
+2020-09-08,SFA,488748,147,New York Yankees,New York Yankees signed free agent LHP Ryan Buchter to a minor league contract and invited him to spring training.,1987-02-13,2014-06-20,2021-08-01,FALSE,2005,33.3333333333333,TRUE,FALSE,TRUE,FALSE
+2020-09-08,SFA,695973,134,Pittsburgh Pirates,Pittsburgh Pirates signed free agent RHP Eduardo Zapata to a minor league contract.,2003-08-27,,,FALSE,,16.7994524298426,FALSE,FALSE,TRUE,FALSE
+2020-09-09,SFA,695970,113,Cincinnati Reds,Cincinnati Reds signed free agent RHP Kelvin Valdez to a minor league contract.,2003-05-08,,,FALSE,,17.1033538672142,FALSE,FALSE,TRUE,TRUE
+2020-09-09,SFA,475253,137,San Francisco Giants,San Francisco Giants signed free agent 1B Justin Smoak to a minor league contract and invited him to spring training.,1986-12-05,2010-04-23,2020-09-17,FALSE,2008,33.5249828884326,TRUE,FALSE,TRUE,FALSE
+2020-09-10,SFA,543921,112,Chicago Cubs,Chicago Cubs signed free agent RHP Joe Wieland to a minor league contract and invited him to spring training.,1990-01-21,2012-04-14,2016-08-12,FALSE,2008,30.3956194387406,TRUE,FALSE,TRUE,FALSE
+2020-09-10,SFA,692262,119,Los Angeles Dodgers,Los Angeles Dodgers signed free agent RHP Roque Gutierrez to a minor league contract.,2002-09-07,,,TRUE,,17.7686516084873,FALSE,FALSE,TRUE,TRUE
+2020-09-10,SFA,692271,135,San Diego Padres,San Diego Padres signed free agent RHP Jose Luis Reyes to a minor league contract.,2002-08-20,,,TRUE,,17.8179329226557,FALSE,FALSE,TRUE,TRUE
+2020-09-11,SFA,641384,138,St. Louis Cardinals,St. Louis Cardinals signed free agent RHP Akeem Bostick to a minor league contract.,1995-05-04,2021-07-29,2021-07-29,FALSE,2013,25.1143052703628,TRUE,TRUE,TRUE,FALSE
+2020-09-11,SFA,695975,137,San Francisco Giants,San Francisco Giants signed free agent LHP Nomar Medina to a minor league contract.,2002-11-23,,,FALSE,,17.5578370978782,FALSE,FALSE,TRUE,TRUE
+2020-09-12,SFA,607692,109,Arizona Diamondbacks,Arizona Diamondbacks signed free agent LHP Travis Radke to a minor league contract and invited him to spring training.,1993-03-06,,,FALSE,2014,27.27446954141,TRUE,TRUE,TRUE,FALSE
+2020-09-13,SFA,467055,144,Atlanta Braves,Atlanta Braves signed free agent 3B Pablo Sandoval to a minor league contract and invited him to spring training.,1986-08-11,2008-08-14,2021-07-29,FALSE,,33.8425735797399,TRUE,FALSE,TRUE,FALSE
+2020-09-14,SFA,571875,133,Athletics,Oakland Athletics signed free agent 3B Jake Lamb.,1990-10-09,2014-08-07,2023-05-07,FALSE,2012,29.6810403832991,TRUE,TRUE,FALSE,FALSE
+2020-09-15,SFA,461865,140,Texas Rangers,Texas Rangers signed free agent SS Andrew Romine to a minor league contract and invited him to spring training.,1985-12-24,2010-09-24,2021-09-05,FALSE,2007,34.4722792607803,TRUE,FALSE,TRUE,FALSE
+2020-09-15,SFA,595885,143,Philadelphia Phillies,Philadelphia Phillies signed free agent 1B Greg Bird to a minor league contract and invited him to spring training.,1992-11-09,2015-08-13,,TRUE,2011,27.5947980835045,TRUE,FALSE,TRUE,FALSE
+2020-09-15,SFA,518960,143,Philadelphia Phillies,Philadelphia Phillies signed free agent C Jonathan Lucroy to a minor league contract and invited him to spring training.,1986-06-13,2010-05-21,2021-07-10,FALSE,2007,34.0041067761807,TRUE,FALSE,TRUE,FALSE
+2020-09-16,SFA,696020,139,Tampa Bay Rays,Tampa Bay Rays signed free agent C Raudelis Martinez to a minor league contract.,2002-05-30,,,TRUE,,18.0424366872006,FALSE,FALSE,TRUE,TRUE
+2020-09-16,SFA,700358,117,Houston Astros,Houston Astros signed free agent SS Narbe Cruz.,2000-10-01,,,TRUE,,19.7015742642026,FALSE,FALSE,FALSE,TRUE
+2020-09-18,SFA,695980,121,New York Mets,New York Mets signed free agent LHP Daniel Mercedes to a minor league contract.,2002-01-17,,,FALSE,,18.4065708418891,FALSE,FALSE,TRUE,TRUE
+2020-09-21,SFA,695990,112,Chicago Cubs,Chicago Cubs signed free agent RHP Kenyi Perez to a minor league contract.,2001-08-09,,,TRUE,,18.8473648186174,FALSE,FALSE,TRUE,TRUE
+2020-09-21,SFA,695991,120,Washington Nationals,Washington Nationals signed free agent C Edward De La Cruz to a minor league contract.,2002-08-27,,,FALSE,,17.7987679671458,FALSE,FALSE,TRUE,TRUE
+2020-09-21,SFA,695986,112,Chicago Cubs,Chicago Cubs signed free agent RHP Rony Baez to a minor league contract.,1999-04-21,,,FALSE,,21.1498973305955,FALSE,FALSE,TRUE,TRUE
+2020-09-22,SFA,695987,120,Washington Nationals,Washington Nationals signed free agent RHP Raynel Moron to a minor league contract.,2001-03-17,,,FALSE,,19.2443531827515,FALSE,FALSE,TRUE,TRUE
+2020-09-23,SFA,696001,158,Milwaukee Brewers,Milwaukee Brewers signed free agent RHP Miguel Guerrero to a minor league contract.,2000-07-15,,,FALSE,,19.9151266255989,FALSE,FALSE,TRUE,TRUE
+2020-09-23,SFA,696000,158,Milwaukee Brewers,Milwaukee Brewers signed free agent RHP Andy Garcia to a minor league contract.,2002-01-16,,,FALSE,,18.4093086926763,FALSE,FALSE,TRUE,TRUE
+2020-09-28,SFA,676931,119,Los Angeles Dodgers,Los Angeles Dodgers signed free agent RHP Cole Percival to a minor league contract.,1999-02-26,,,TRUE,2020,21.2977412731006,FALSE,FALSE,TRUE,TRUE
+2020-09-28,SFA,696015,134,Pittsburgh Pirates,Pittsburgh Pirates signed free agent OF Juan Machado to a minor league contract.,2003-06-04,,,FALSE,,17.0294318959617,FALSE,FALSE,TRUE,TRUE
+2020-09-28,SFA,696010,119,Los Angeles Dodgers,Los Angeles Dodgers signed free agent RHP David Tiburcio to a minor league contract.,2001-12-29,,,FALSE,,18.4585900068446,FALSE,FALSE,TRUE,TRUE
+2020-09-28,SFA,696005,146,Miami Marlins,Miami Marlins signed free agent RHP Yoelvis Burguillos to a minor league contract.,2002-09-07,,,FALSE,,17.7686516084873,FALSE,FALSE,TRUE,TRUE
+2020-09-29,SFA,696016,134,Pittsburgh Pirates,Pittsburgh Pirates signed free agent RHP Weslyn Toussaint to a minor league contract.,2002-12-07,,,FALSE,,17.5195071868583,FALSE,FALSE,TRUE,TRUE
+2020-09-29,SFA,682608,118,Kansas City Royals,Kansas City Royals signed free agent RHP Peyton Gray to a minor league contract.,1995-06-02,2026-04-23,,TRUE,,25.0349075975359,TRUE,FALSE,TRUE,FALSE

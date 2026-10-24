@@ -1,0 +1,4 @@
+set,n,share_le_10k,share_at_thr,share_gt_thr
+observed (reported) 2012-16,761,0.018,0.553,0.305
+imputed (missing) 2012-16,45100,0.47,0.142,0.033
+observed 2017-19 (near-complete),1920,0.363,0.241,0.104

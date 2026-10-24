@@ -1,0 +1,4 @@
+set,n,median_rel,mean_rel,share_lt_0.05,share_below_thr,share_at_thr,share_above_thr
+truth: Stats API bonus of picks B-Ref did not report,484,0.16,0.371,0.448,0.824,0.157,0.019
+selection-adjusted imputation,9680,0.08,0.403,0.449,0.826,0.139,0.035
+MAR imputation (no selection adjustment),9680,0.4,0.476,0.39,0.771,0.174,0.055

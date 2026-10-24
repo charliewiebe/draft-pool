@@ -1,0 +1,33 @@
+year,pick_overall,name,failure_class,evidence_paraphrase,source_url
+2012,8,Mark Appel,bonus_or_college,Chose to return to Stanford; signed as 2013 No. 1 pick,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2012,75,Teddy Stankiewicz,reason_not_stated,Went to junior college; re-drafted 2013,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2012,95,Alec Rash,reason_not_stated,Went to Missouri; later shoulder injuries; never played pro,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2012,106,Kyle Twomey,reason_not_stated,Went to USC; re-drafted 2015 round 13,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2013,10,Phil Bickford,reason_not_stated,Went to Cal State Fullerton then JUCO; re-drafted 2015 first round,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2013,35,Matt Krook,medical,BA cites him with Aiken as a case where a medical finding led the team to cut its offer,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2013,80,Ben Deluzio,reason_not_stated,Went to Florida State; went undrafted in 2016,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2014,1,Brady Aiken,medical,Astros did not like the medical report on his elbow ligament,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2014,104,Trevor Megill,reason_not_stated,Returned to Loyola Marymount; re-drafted 2015 round 7,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2015,35,Kyle Funkhouser,reason_not_stated,Returned to college; re-drafted 2016 round 4,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2015,56,Brady Singer,bonus_or_college,Went to Florida from high school; signed as 2018 No. 18 pick,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2015,68,Jonathan Hughes,reason_not_stated,Went to Georgia Tech; undrafted in 2018,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2015,73,Kyle Cody,reason_not_stated,Returned to college; re-drafted 2016 round 6,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2016,41,Nick Lodolo,bonus_or_college,Went to TCU,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2017,31,Drew Rasmussen,medical,Rays balked after post-draft physical showed issues from prior Tommy John surgery,https://www.baseballamerica.com/stories/what-has-happened-to-top-picks-who-failed-to-sign/
+2018,8,Carter Stewart,medical,Sides disagreed on post-draft physical; club reportedly never committed above 40% of slot,https://www.mlb.com/news/draft-picks-go-unsigned-at-deadline-c284523732
+2018,25,Matt McLain,bonus_or_college,Asked $3M and declined an offer equal to slot,https://www.mlb.com/news/draft-picks-go-unsigned-at-deadline-c284523732
+2018,30,J.T. Ginn,pool_constraint,Club's maximum offer without forfeiting a future first was about $500K below his ask,https://www.mlb.com/news/draft-picks-go-unsigned-at-deadline-c284523732
+2018,36,Gunnar Hoglund,medical,Sides disagreed on post-draft physical,https://www.mlb.com/news/draft-picks-go-unsigned-at-deadline-c284523732
+2019,205,Brandon Sproat,bonus_or_college,Honored Florida commitment,https://www.mlb.com/news/2019-mlb-draft-signing-deadline-roundup
+2019,312,Wyatt Hendrie,bonus_or_college,Went to San Diego State from JUCO,https://www.mlb.com/news/2019-mlb-draft-signing-deadline-roundup
+2021,10,Kumar Rocker,medical,Club made no offer after reviewing post-draft medicals (had agreed to $6M around the draft),https://www.mlb.com/mets/news/kumar-rocker-does-not-sign-with-mets
+2021,40,Jud Fabian,pool_constraint,Club could not exceed about $1.98M without forfeiting a first-rounder; reported market ~$3M,https://www.mlb.com/news/mlb-draft-signing-deadline-picks-unsigned
+2021,117,Alex Ulloa,reason_not_stated,Did not turn pro,https://www.mlb.com/news/mlb-draft-signing-deadline-picks-unsigned
+2022,81,Nolan McLean,medical,Sides disagreed on post-draft physical; returned to Oklahoma State,https://www.mlb.com/news/2022-mlb-draft-signing-deadline-picks-unsigned
+2022,90,Brandon Sproat,reason_not_stated,Failed to sign; returned to Florida,https://www.mlb.com/news/2022-mlb-draft-signing-deadline-picks-unsigned
+2022,304,Brock Rodden,reason_not_stated,Failed to sign,https://www.mlb.com/news/2022-mlb-draft-signing-deadline-picks-unsigned
+2023,305,Caden Kendle,agreed_then_withdrew,Agreed to $175K then backed out,https://www.mlb.com/news/2023-mlb-draft-signing-deadline-passes-quietly
+2024,66,Tyler Bell,bonus_or_college,Followed through on Kentucky commitment,https://www.mlb.com/news/mlb-draft-signing-deadline-2024
+2024,67,Chris Levonas,bonus_or_college,Declined late-first-round money; attending Wake Forest,https://www.mlb.com/news/mlb-draft-signing-deadline-2024
+2024,81,Ryan Prager,bonus_or_college,Returned to Texas A&M,https://www.mlb.com/news/mlb-draft-signing-deadline-2024
+2024,263,Jaxon Jelkin,medical,Tommy John surgery; club made no formal offer,https://www.mlb.com/news/mlb-draft-signing-deadline-2024

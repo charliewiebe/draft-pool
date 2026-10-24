@@ -1,0 +1,15 @@
+year,slot_status,slot_source,n
+2012,published,BA per-pick list,338
+2013,derived,2012 schedule x 1.082000 (BA 2013: assigned values +8.2% vs 2012 (pick-1 value not published in source)),316
+2014,derived,"2012 schedule x 1.100292 (MLB.com 2014: No. 1 pick valued at $7,922,100)",315
+2015,derived,"2012 schedule x 1.196792 (MLB.com 2015: No. 1 pick valued at $8,616,900)",315
+2016,published,MLB.com per-pick list,316
+2017,published,Stats API pickValue,315
+2018,published,Stats API pickValue,314
+2019,published,Stats API pickValue,317
+2020,published,Stats API pickValue,160
+2021,published,Stats API pickValue,312
+2022,published,Stats API pickValue,316
+2023,published,Stats API pickValue,314
+2024,published,Stats API pickValue,315
+2025,published,Stats API pickValue,315

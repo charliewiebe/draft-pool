@@ -1,0 +1,10 @@
+source,requests,ok,non_200,mb
+statsapi/draft,14,14,0,23.3
+data/raw/chadwick,1,1,0,0
+bbref/draft,425,425,0,97.2
+articles,45,44,1,14
+bbref/war,2,2,0,51
+pipeline,29,29,0,58.4
+statsapi/people,232,232,0,142.3
+bbref/bullpen,14,0,14,0.1
+data/raw/cpi,1,1,0,0

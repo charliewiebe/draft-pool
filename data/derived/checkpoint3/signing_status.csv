@@ -1,0 +1,7 @@
+signing_status,pool_round_FALSE,pool_round_TRUE
+signed,6225,4226
+unresolved,3,0
+unsigned_bonus_or_school,0,10
+unsigned_medical,0,8
+unsigned_pool_constraint,0,2
+unsigned_reason_not_documented,2472,32

@@ -1,0 +1,4 @@
+method,picks,draws,median,share_at_thr,share_below_thr,share_le_10k
+R1-10 MAR hot deck on ratio_to_slot,9,180,208144.138317174,0,0,0.078
+R11+ 2012-16 selection-adjusted hot deck,2255,45100,20000,0.142,0.825,0.47
+R11+ 2017+ MAR hot deck,5,100,50000,0.23,0.67,0.42

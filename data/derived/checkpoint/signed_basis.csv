@@ -1,0 +1,10 @@
+signed_basis,n
+B-Ref N,1138
+B-Ref Y,4746
+B-Ref Y + Stats API bonus,5677
+Stats API bonus > 0 (B-Ref unknown),3
+"UNRESOLVED: B-Ref N, Stats API bonus > 0, no pro appearance",3
+signed: Stats API bonus + pro appearance by next season (B-Ref N overridden),21
+signed: pro appearance by next season (B-Ref unknown),4
+unsigned: drafted again later,1385
+unsigned: drafted again later (overrides source 'signed'),1
