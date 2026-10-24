@@ -1,8 +1,7 @@
 ---
-title: "Spending the Pool"
-subtitle: "A Bayesian decision model for allocating an MLB Rule 4 draft bonus pool"
+title: "Optimizing the Bonus Pool"
+subtitle: "A Bayesian decision model for using an MLB Rule 4 draft bonus pool more intelligently"
 author: "Charlie Wiebe"
-date: "`r format(Sys.Date(), '%B %Y')`"
 output:
   html_document:
     theme:
@@ -63,7 +62,7 @@ table { font-size: 0.9em; }
 ```
 
 ```{r load}
-# ---- inputs ----------------------------------------------------------------------------------------------------
+# inputs
 picks   <- read_csv("data/derived/picks_clean.csv", show_col_types = FALSE)
 rules   <- read_csv("data/derived/rules_by_year.csv", show_col_types = FALSE)
 curves  <- ck("checkpoint5", "curves_2012_21")
@@ -90,7 +89,7 @@ xpick   <- ck("checkpoint7", "extra_pick"); depth <- ck("checkpoint7", "depth_sp
 best_adaptive <- function(d, by = "p") d |> filter(grepl("^adaptive", policy)) |> group_by(across(all_of(by))) |>
   slice_max(gain, n = 1, with_ties = FALSE) |> ungroup()
 
-# ---- headline numbers used in the text ---------------------------------------------------------------------------
+# headline numbers used in the text
 q3 <- q3 |> mutate(pct = adaptive_gain / bpa_surplus, save_share = 1 - adaptive_first_ratio)
 first_at_slot <- q3f |> filter(s1 == 0) |> select(p, cont_gain = gain)
 save_comp <- q3f |> group_by(p) |> slice_max(gain_vs_first_at_slot, n = 1, with_ties = FALSE) |> ungroup() |>
@@ -114,19 +113,19 @@ n_big <- picks |> filter(year <= 2021, signed %in% TRUE, !is.na(bonus_pv)) |> su
 
 <div class="callout">
 
-**Summary.** I built a staged R + Stan pipeline that answers a front-office question: given a Rule 4 bonus pool, how should a team spread it across picks, rounds and player types? The pipeline estimates what a draftee is worth as a function of the bonus he signs for, models how the draft market prices and sorts players, simulates thousands of drafts, and searches for allocation rules inside that simulated market.
+**Summary.** One conclusion I drew from working in an MLB draft room this July is that teams across the league are leaving copious value on the table by not being more statistically rigourous in how they choose to spend the bonus pool. In this independent project, I built a staged R + Stan pipeline that seeks to refine this process. The pipeline estimates what a draftee is worth as a function of the bonus he signs for, models how the draft market prices and sorts players, simulates thousands of drafts, and searches for allocation rules inside that simulated market.
 
 * **A value-aware rule that re-optimizes at every pick beats best-player-available-at-slot (BPA) by $`r rng(q3$adaptive_gain)`M of expected class surplus at every first-round position** (`r pc(min(q3$pct))`–`r pc(max(q3$pct))` of BPA's surplus), with the 90% posterior band above zero everywhere. The gain holds on held-out scenarios and under every valuation, signing-risk and supply sensitivity I ran.
 * **Fixed templates do not work.** The best "save at the top", "spend at the top", "barbell" or "spread" rule never beats BPA; even the best of them, at its best position, trails BPA by $`r m(-K$static_max, 2)`M. Moving money only helps when the player it buys is chosen by value.
 * **The value curve is concave.** A marginal bonus dollar buys roughly `r formatC(min(K$dvdb_300k), format = "f", digits = 1)`–`r formatC(max(K$dvdb_300k), format = "f", digits = 1)` dollars of expected value at a \$300k bonus but `r formatC(min(K$dvdb_7m), format = "f", digits = 1)`–`r formatC(max(K$dvdb_7m), format = "f", digits = 1)` at \$7M. The optimal first pick signs for `r pc(min(save_comp$s1_best))`–`r pc(max(save_comp$s1_best))` under slot, and the savings move to hitters, younger players, college bats in rounds 3–5 and over-threshold high-schoolers after round 10.
-* **Plan to 103–105% of the pool, never past 105%.** The extra 5% is worth having only with value-aware targets; spent by BPA, it loses money.
+* **With the value-aware rule, teams should spend as close to 105% of their pool as possible.
 * **Almost all of the gain is market pricing, not rule mechanics.** If bonuses equalled expected value, the best rule would gain at most $`r m(K$i2_max, 2)`M.
 
 </div>
 
-# The question
+# Introduction
 
-Every club gets a bonus pool equal to the sum of the assigned slot values of its picks in rounds 1–10. Bonuses in those rounds, plus anything above the round 11+ threshold, count against it. The pool is a budget with penalties rather than a hard cap:
+Every team gets a bonus pool equal to the sum of the assigned slot values of its picks in rounds 1–10. Bonuses in those rounds, plus anything above the round 11+ threshold, count against it. The pool is a budget with penalties, not a hard cap:
 
 ```{r rules}
 rules |> filter(year == 2025, rule %in% c("pool_rounds", "r11_threshold_usd", "unsigned_slot_removed_from_pool", "band1_0_5pct",
@@ -175,7 +174,7 @@ The pick table covers `r format(K$n_picks, big.mark = ",")` picks from the `r K$
 kbl(cov, digits = 2, format.args = list(big.mark = ","), caption = "Pick table coverage by draft year. 2020 was a 5-round draft; 2021 onward are 20 rounds.")
 ```
 
-Three cleaning decisions matter downstream:
+Three cleaning decisions that should be noted:
 
 1. **Money is put on one scale.** Each bonus is expressed relative to that year's slot schedule (a fixed basket of pick values, indexed to 2012) and then converted to the 2025 schedule. A \$1M bonus in 2013 and one in 2025 are not the same signal of talent. Deferred 2020 bonuses are converted to present value.
 2. **Missing round 11+ bonuses for 2012–16 are imputed with selection adjustment.** Public reporting of these bonuses is incomplete and not random: large over-threshold deals get reported, threshold deals mostly don't. The imputation models reporting jointly with amount and is checked against 2017+ classes, where coverage is complete.
@@ -217,7 +216,7 @@ excerpt("stan/value_ordinal.stan", "array\\[2\\] vector\\[4\\] C; C\\[1\\] = cut
 
 ### Filling open control windows
 
-Classes drafted after 2016 are too young to have complete windows. Treating them as lower bounds throws away most of what they say, and dropping them would leave the curve resting on 2012–16 alone. Instead, a **season-level accrual model** imputes the rest of each open window, with five multiple imputations:
+Classes drafted after 2016 are too young to have complete windows. Treating them as lower bounds throws away most of their signal, and dropping them would leave the curve resting on 2012–16 alone. Instead, a **season-level accrual model** imputes the rest of each open window, with five multiple imputations:
 
 * each future season is a categorical state (out / minors / majors), driven by the player's MLB history, age and role;
 * WAR in an MLB season follows an **exponentially modified normal**, a Gaussian core with an exponential right tail, which matches season WAR better than a Student-t.
@@ -228,7 +227,7 @@ The ordinal model is then refit on each imputed 2012–21 dataset and the poster
 excerpt("stan/accrual.stan", "vector\\[NW\\] mu = c0", "war ~ exp_mod_normal", "stan")
 ```
 
-## From tiers to dollars
+## Translating to dollars
 
 Each tier and debut-season pair is mapped to dollars using historical "donor" players' actual season-by-season control paths:
 
@@ -260,9 +259,9 @@ ggplot(cv_long, aes(bonus, y, colour = type, fill = type, linetype = grepl("-P$"
   labs(x = "Signing bonus (2025 schedule dollars, log scale)", y = NULL)
 ```
 
-**Reading the curve:**
+**Interpretation:**
 
-* Expected value rises with bonus for every type: the market's ranking carries real information.
+* As an encouraging santity check: expected value rises with bonus for every type.
 * Above roughly \$150k, the *marginal* value of a bonus dollar falls steadily with bonus. (Below that, bonuses mostly mark threshold signings in later rounds, a different population.) That fall is the lever the decision model pulls. If a pool dollar is worth λ dollars of value elsewhere in the draft, a team should stop paying up for a player once the marginal value at his price drops below λ.
 * Four-year hitters return the most expected value per bonus dollar at every bonus level.
 
@@ -312,7 +311,7 @@ Fitting one continuous distribution to this produced a multimodal posterior. The
 excerpt("stan/deals.stan", "if \\(!prior_only\\)", "z\\[i4\\] ~ normal", "stan")
 ```
 
-High-school over-slot deals become the norm after the first round, while four-year players sit near slot throughout. Posterior predictive checks put `r pc(mean(deal_ppc$inside_90))` of the `r nrow(deal_ppc)` round × school × component cells inside their 90% intervals.
+As expected, high-school over-slot deals become the norm after the first round, while four-year players sit near slot throughout. Posterior predictive checks put `r pc(mean(deal_ppc$inside_90))` of the `r nrow(deal_ppc)` round × school × component cells inside their 90% intervals.
 
 ```{r, out.width = "100%", fig.cap = "Deal model: P(over-slot) and mean bonus/slot by pick for a Top 200 prospect taken at his pre-draft rank. Posterior mean, 90% band."}
 include_graphics("reports/figures/stage5_deals_by_pick.png")
@@ -390,11 +389,11 @@ fail_m |> filter(rg %in% c("R1+C", "R2-CBB"), school_type %in% c("HS", "4yr"), b
   kbl(caption = "Implied P(no deal) by ask under two assumed slopes.")
 ```
 
-# The decision engine
+# The engine
 
 ## The focal team's problem
 
-The evaluation setup:
+Evaluation setup:
 
 * **Market:** the 2025 draft order and slot values, with 2,000 simulated draft scenarios, each tied to one of 100 posterior draws of the value model.
 * **Focal team:** holds the mirrored picks for a first-round position *p* in rounds 1–10 and drafts inside each scenario.
@@ -431,7 +430,7 @@ excerpt("R/decision.R", "pool_s <- fs\\$pool", "surplus <- v10", "r")
 
 # Results
 
-## Q3: Saving at the top pays at every first-round position
+## Q3: On average, saving at the top is the wise strategy, regardless of where in the first round you pick. 
 
 ```{r q3-plot, fig.height = 5.2, fig.cap = "Gain in expected class surplus over BPA by first-pick position. Ribbons: 90% posterior band. Diamonds: the same policies re-evaluated on the holdout bank."}
 cls <- pol |> filter(class %in% c("save-at-top", "spend-at-top", "barbell", "spread", "adaptive")) |>
