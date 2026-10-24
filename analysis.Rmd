@@ -113,7 +113,7 @@ n_big <- picks |> filter(year <= 2021, signed %in% TRUE, !is.na(bonus_pv)) |> su
 
 <div class="callout">
 
-**Summary.** One conclusion I drew from working in an MLB draft room this July is that teams across the league are leaving copious value on the table by not being more statistically rigourous in how they choose to spend the bonus pool. In this independent project, I built a staged R + Stan pipeline that seeks to refine this process. The pipeline estimates what a draftee is worth as a function of the bonus he signs for, models how the draft market prices and sorts players, simulates thousands of drafts, and searches for allocation rules inside that simulated market.
+**Summary.** One conclusion I drew from working in an MLB draft room this July is that teams across the league are leaving copious value on the table by not being more statistically rigorous in how they choose to spend the bonus pool. In this independent project, I built a staged R + Stan pipeline that seeks to refine this process. The pipeline estimates what a draftee is worth as a function of the bonus he signs for, models how the draft market prices and sorts players, simulates thousands of drafts, and searches for allocation rules inside that simulated market.
 
 * **A value-aware rule that re-optimizes at every pick beats best-player-available-at-slot (BPA) by $`r rng(q3$adaptive_gain)`M of expected class surplus at every first-round position** (`r pc(min(q3$pct))`–`r pc(max(q3$pct))` of BPA's surplus), with the 90% posterior band above zero everywhere. The gain holds on held-out scenarios and under every valuation, signing-risk and supply sensitivity I ran.
 * **Fixed templates do not work.** The best "save at the top", "spend at the top", "barbell" or "spread" rule never beats BPA; even the best of them, at its best position, trails BPA by $`r m(-K$static_max, 2)`M. Moving money only helps when the player it buys is chosen by value.
@@ -261,7 +261,7 @@ ggplot(cv_long, aes(bonus, y, colour = type, fill = type, linetype = grepl("-P$"
 
 **Interpretation:**
 
-* As an encouraging santity check: expected value rises with bonus for every type.
+* As an encouraging sanity check: expected value rises with bonus for every type, scouts are good at their job.
 * Above roughly \$150k, the *marginal* value of a bonus dollar falls steadily with bonus. (Below that, bonuses mostly mark threshold signings in later rounds, a different population.) That fall is the lever the decision model pulls. If a pool dollar is worth λ dollars of value elsewhere in the draft, a team should stop paying up for a player once the marginal value at his price drops below λ.
 * Four-year hitters return the most expected value per bonus dollar at every bonus level.
 
